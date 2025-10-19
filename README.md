@@ -2,7 +2,7 @@
 
 1. Clone the Repository using the following command:
 
-   $ git clone https://github.com/Thiru17398/Gold_Price_Extractor.git
+   $git clone https://github.com/Thiru17398/Gold_Price_Extractor.git
    
 3. Create a virtual env using the following command:
 
@@ -19,4 +19,5 @@
 6. Now, Run the project using the following command,
 
    $ python main.py
+
 
